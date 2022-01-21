@@ -1,4 +1,4 @@
-# Restaurant order application
+# Restaurant ordering application
 
 ## Restaurant ordering application using: React.js, CSS
 
